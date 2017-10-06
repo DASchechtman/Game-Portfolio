@@ -1,2 +1,2 @@
 # Game-Portfolio
-Showcase of games I have made 
+Showcase of projects I have made
